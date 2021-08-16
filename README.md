@@ -1,1 +1,1 @@
-# IrisMLEClassifier
+# IrisKNNClassifier
